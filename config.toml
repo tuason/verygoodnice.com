@@ -27,7 +27,8 @@ copyright = "&copy;2021 Tuason Software Digital."
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background_tryphena.jpg"
+      file = "images/background.jpg"
+      # file = "images/background_tryphena.jpg"
       position = "center center"
 
     # Video
