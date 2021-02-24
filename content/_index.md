@@ -1,6 +1,6 @@
 +++
 title = "V E R Y   G O O D   N I C E"
-tagline = "travel. sea. surf. snow. create. dive. fish. music. tech. sail. stories. digital. food. pow. live."
+tagline = "travel. sea. surf. snow. create. dive. fish. music. tech. sail. stories. digital. food. pow. live. life."
 +++
 
 Kia ora, mabuhay and welcome to "very good nice". This is all about very good nice things in the world of us, them and others.

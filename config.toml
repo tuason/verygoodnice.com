@@ -46,15 +46,15 @@ copyright = "&copy;2021 Tuason Software Digital."
       heading = "Connect / check"
 
       [[params.links.list1.link]]
-        text = "benny button"
-        url = "https://www.bennybutton.com"
+        text = "tuason software"
+        url = "https://www.tuason.ch"
 
       [[params.links.list1.link]]
-        text = "code tresor"
-        url = "https://www.codetresor.com"
+        text = "our aotea life"
+        url = "https://www.aotea.life"
 
       [[params.links.list1.link]]
-        text = "e-mail m."
+        text = "e-mail me"
         url = "mailto:marcel@verygoodnice.com"
 
   # Links List #2
@@ -67,11 +67,11 @@ copyright = "&copy;2021 Tuason Software Digital."
         url = "https://twitter.com/tuasonsoftware"
 
       [[params.links.list2.link]]
-        text = "instagram p."
+        text = "insta p"
         url = "https://www.instagram.com/finchpenny11/"
 
       [[params.links.list2.link]]
-        text = "instagram m."
+        text = "insta m"
         url = "https://www.instagram.com/maesiegrist/"
 
   # Links List #3
@@ -80,16 +80,16 @@ copyright = "&copy;2021 Tuason Software Digital."
       heading = "Network"
 
       [[params.links.list3.link]]
+        text = "benny button"
+        url = "https://www.bennybutton.com"
+
+      [[params.links.list3.link]]
         text = "siargao inn"
         url = "https://www.siargao-inn.com"
 
       [[params.links.list3.link]]
-        text = "tuason software"
-        url = "https://www.tuason.com.au"
-
-      [[params.links.list3.link]]
-        text = "aotea life"
-        url = "#"
+        text = "factory 9"
+        url = "https://www.factory9.ch"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
