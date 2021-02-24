@@ -1,4 +1,4 @@
-baseURL = "http://verygoodnice.com/"
+baseURL = "https://verygoodnice.com/"
 languageCode = "en-us"
 title = "VERY GOOD NICE"
 theme = "hugo-split-theme"
