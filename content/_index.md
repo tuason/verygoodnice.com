@@ -5,6 +5,6 @@ tagline = "travel. surf. snow. create. dive. fish. nomad. tech. sail. stories. d
 
 Kia ora, mabuhay and welcome to "very good nice". This is all about very good nice things in the world of us, them and others.
 
-May we introduce you to [Aotea/Great Barrier Island]({{< ref "aotea.md" >}}) in New Zealand? Or would you like to dive in to Siargao Island in the Philippines? Or what about picturesque Switzerland?
+May we introduce you to [Aotea/Great Barrier Island]({{< ref "aotea.md" >}}) in New Zealand? Or would you like to visit [Siargao Island](https://siargao-inn.com) in the Philippines? Or what about a ride or hike in the picturesque Swiss Alps? Or maybe you are looking for some serious pow pow in Hokaido, Japan?
 
 
