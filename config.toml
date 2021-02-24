@@ -1,0 +1,96 @@
+baseURL = "http://verygoodnice.com/"
+languageCode = "en-us"
+title = "VERY GOOD NICE"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2021 Tuason Software Digital."
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Marcel Siegrist"
+  description = "This is us, very good nice. Stories about travel, surf, snow, create, dive, fish, nomad, tech, sail, digital, food and other very good nice things."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect / check"
+
+      [[params.links.list1.link]]
+        text = "benny button"
+        url = "https://www.bennybutton.com"
+
+      [[params.links.list1.link]]
+        text = "code tresor"
+        url = "https://www.codetresor.com"
+
+      [[params.links.list1.link]]
+        text = "e-mail m."
+        url = "mailto:marcel@verygoodnice.com"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "twitter"
+        url = "https://twitter.com/tuasonsoftware"
+
+      [[params.links.list2.link]]
+        text = "instagram p."
+        url = "https://www.instagram.com/finchpenny11/"
+
+      [[params.links.list2.link]]
+        text = "instagram m."
+        url = "https://www.instagram.com/maesiegrist/"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Network"
+
+      [[params.links.list3.link]]
+        text = "siargao inn"
+        url = "https://www.siargao-inn.com"
+
+      [[params.links.list3.link]]
+        text = "tuason software"
+        url = "https://www.tuason.com.au"
+
+      [[params.links.list3.link]]
+        text = "aotea life"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
