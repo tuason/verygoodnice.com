@@ -49,9 +49,12 @@ copyright = "&copy;2021 Tuason Software Digital."
         text = "tuason software"
         url = "https://www.tuason.ch"
 
+#      [[params.links.list1.link]]
+#        text = "our aotea life"
+#        url = "https://www.aotea.life"
       [[params.links.list1.link]]
-        text = "our aotea life"
-        url = "https://www.aotea.life"
+        text = "benny button"
+        url = "https://www.bennybutton.com"
 
       [[params.links.list1.link]]
         text = "e-mail me"
@@ -80,8 +83,8 @@ copyright = "&copy;2021 Tuason Software Digital."
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "benny button"
-        url = "https://www.bennybutton.com"
+        text = "sturmberg"
+        url = "https://www.sturmberg.ch"
 
       [[params.links.list3.link]]
         text = "siargao inn"
