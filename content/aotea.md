@@ -2,9 +2,9 @@
 title = "Aotea / Great Barrier Island"
 +++
 
-Kia ora! Welcome to Aotea, Great Barrier Island. An off-grid dream par excellence... 
+Kia ora! Welcome to Aotea, Great Barrier Island. An off-grid dream par excellence...
 
-[StokedLab Ltd - Sunbeam](https://www.stokedlab.io/sunbeam)
+Find more stories and interesting facts on [StokedLab Ltd - Sunbeam](https://www.stokedlab.io/sunbeam).
 
 
 
