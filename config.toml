@@ -8,7 +8,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Tuason Software Digital."
+copyright = "&copy;2025 - StokedLab Ltd."
 
 [params]
 
@@ -16,7 +16,7 @@ copyright = "&copy;2021 Tuason Software Digital."
   author = "Marcel Siegrist"
   description = "This is us, very good nice. Stories about travel, surf, snow, create, dive, fish, nomad, tech, sail, digital, food and other very good nice things."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "AoteaGBI"
 
   # Favicon
   favicon = "favicon.ico"
@@ -46,16 +46,11 @@ copyright = "&copy;2021 Tuason Software Digital."
       heading = "Connect / check"
 
       [[params.links.list1.link]]
-        text = "tuason software"
-        url = "https://www.tuason.ch"
-
-#      [[params.links.list1.link]]
-#        text = "our aotea life"
-#        url = "https://www.aotea.life"
+        text = "stokedlab ltd"
+        url = "https://www.stokedlab.io"
       [[params.links.list1.link]]
         text = "benny button"
         url = "https://www.bennybutton.com"
-
       [[params.links.list1.link]]
         text = "e-mail me"
         url = "mailto:marcel@verygoodnice.com"
@@ -66,8 +61,8 @@ copyright = "&copy;2021 Tuason Software Digital."
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "twitter"
-        url = "https://twitter.com/tuasonsoftware"
+        text = "x"
+        url = "https://twitter.com/AoteaGBI"
 
       [[params.links.list2.link]]
         text = "insta p"
